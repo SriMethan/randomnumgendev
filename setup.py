@@ -19,7 +19,7 @@ setuptools.setup(
     },
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: GNU General Public License (GPL)",
+        "License :: OSI Approved :: MIT",
         "Operating System :: OS Independent",
     ],
     package_dir={"": "randomnumgen"},
