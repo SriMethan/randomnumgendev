@@ -1,5 +1,6 @@
 # randomnumgen
 
+[![.github/workflows/tests.yml](https://github.com/SriMethan/randomnumgendev/actions/workflows/tests.yml/badge.svg)](https://github.com/SriMethan/randomnumgendev/actions/workflows/tests.yml)
 
 **Randomnumgen is a Python library that generates random numbers.**
 
