@@ -1,4 +1,4 @@
-[![.github/workflows/tests.yml](https://github.com/SriMethan/randomnumgendev/actions/workflows/tests.yml/badge.svg)](https://github.com/SriMethan/randomnumgendev/actions/workflows/tests.yml)
+![Tests](https://github.com/SriMethan/randomnumgen/actions/workflows/tests.yml/badge.svg)
 
 # randomnumgen
 
